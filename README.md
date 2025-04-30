@@ -1,7 +1,7 @@
 ### FabrizioRiva:  Your Ultimate Online Fashion Destination
 
 **Fabrizioriva** is designed to make your online shopping experience as seamless and enjoyable as possible. We offer a wide range of clothing options across various categories, ensuring that you find exactly what you need with ease. Here’s how our platform enhances your shopping journey:
-
+![Screenshot 2025-04-30 130136](https://github.com/user-attachments/assets/2cfb004b-0753-46d8-9430-c915bb09d061)
 #### **Key Features**
 
 1. **Simple Registration and Login:**
@@ -10,9 +10,13 @@
 2. **Extensive Clothing Categories:**
    - Our clothing is organized into specific categories, such as ethnic wear, formal attire, casual frocks, hoodies, jackets, jumpsuits, nightwear, suits, kids' t-shirts, and western wear. This organization makes it easy to find exactly what you're looking for.
 
+
+https://github.com/user-attachments/assets/7c484395-635b-49f5-b919-29342a6fccd1
+
+
 3. **Convenient Shopping Cart:**
    - Add your favorite items to the shopping cart, where you can review, modify, and proceed to checkout at your own pace.
-
+https://github.com/user-attachments/assets/a9cce207-79ba-4bb0-b5da-bb1682eb12ca
 4. **Order Confirmation & Tracking:**
    - After placing an order, you’ll receive a clear confirmation with all the details. Plus, you can track your order in real-time to know exactly when it will arrive.
 
@@ -31,5 +35,8 @@
 ### **User-Friendly Design**
 
 Fabrixoriva's interface is designed for ease of use. Whether you’re browsing on a computer or mobile device, our website adapts to your screen, offering a consistent and enjoyable shopping experience. Explore our diverse collections, add to your cart, and enjoy a smooth checkout process—everything is just a click away.
+
+![Screenshot 2025-04-30 130512](https://github.com/user-attachments/assets/9a07af0e-15de-4dee-9695-9bfc44e81f25)
+
 
 Experience the best in fashion with Fabrixoriva, where style meets simplicity!
