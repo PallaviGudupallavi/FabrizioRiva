@@ -16,7 +16,11 @@ https://github.com/user-attachments/assets/7c484395-635b-49f5-b919-29342a6fccd1
 
 3. **Convenient Shopping Cart:**
    - Add your favorite items to the shopping cart, where you can review, modify, and proceed to checkout at your own pace.
-https://github.com/user-attachments/assets/a9cce207-79ba-4bb0-b5da-bb1682eb12ca
+     
+
+https://github.com/user-attachments/assets/d9659b5b-0b27-4e05-9fff-90669144e206
+
+
 4. **Order Confirmation & Tracking:**
    - After placing an order, you’ll receive a clear confirmation with all the details. Plus, you can track your order in real-time to know exactly when it will arrive.
 
